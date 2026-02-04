@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "virgo-core",
+    "virgo-node"
+]
+

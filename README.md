@@ -115,3 +115,44 @@ Free and open for academic, industrial, and experimental use.
 
 - GitHub Issues & Discussions: *welcome*
 - Research collaborations: *encouraged*
+
+## Academic References
+
+The VIRGO and sVIRGO architectures are described in the following research manuscripts:
+  
+
+1. **Lican Huang**,  
+   *VIRGO: Virtual Hierarchical Overlay Network for Scalable Grid Computing*,  
+   in *Advances in Grid Computing (EGC 2005)*,  
+   Lecture Notes in Computer Science, vol. 3470, Springer, 2005, pp. 911–921.  
+   DOI: 10.1007/11508380_93
+
+2. **Lican Huang**,  
+   *Virtual Hierarchical Tree Grid Organizations (VIRGO)*,  
+   in *Handbook of Research on P2P and Grid Systems for Service-Oriented Computing*,  
+   IGI Global, 2010.
+
+3. **Lican Huang**,  
+   *Constructing Large Scale Cooperative Multi-Agent Systems from Semantic P2P Networks*,  
+   Studies in Computational Intelligence, vol. 460, Springer, 2013, pp. 257–277.  
+   DOI: 10.1007/978-3-642-34952-2_11
+
+4. **Lican Huang**,  
+   *Private Virtual Tree Networks for Secure Multi-Tenant Environments Based on the VIRGO Overlay Network*,  
+   arXiv preprint arXiv:2512.15915, 2025.
+
+5. **Lican Huang**,  
+   *sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems*,  
+   arXiv preprint arXiv:2602.02438, 2026.
+
+## Related References
+6. **Lican Huang**,  
+   *Research on Scalable Architecture for e-Science Grid*,  
+   PhD Thesis, School of Computer Science and Technology,  
+   Zhejiang University, Nov. 2003. *(in Chinese)*
+
+7. **Lican Huang**, Z. Wu, Y. Pan,  
+   *Virtual and Dynamic Hierarchical Architecture for E-Science Grid*,  
+   *International Journal of High Performance Computing Applications*,  
+   vol. 17, no. 3, pp. 329–347, 2003.  
+   DOI: 10.1177/1094342003173007

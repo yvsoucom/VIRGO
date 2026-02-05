@@ -1,0 +1,21 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# VSCode / IDE files
+.vscode/
+*.code-workspace
+
+# MacOS files
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+
+# Cargo lock (optional for libraries)
+/Cargo.lock
+
+# Debug files
+debug/
+*.rpt

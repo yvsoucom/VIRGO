@@ -136,36 +136,41 @@ Free and open for academic, industrial, and experimental use.
 - GitHub Issues & Discussions: *welcome*
 - Research collaborations: *encouraged*
 
-## Academic References
+# VIRGO / sVIRGO Research and References
 
-The VIRGO and sVIRGO architectures are described in the following research manuscripts:
-  
+## 📚 References
+
+### Core VIRGO / sVIRGO Publications
 
 1. **Lican Huang**,  
    *VIRGO: Virtual Hierarchical Overlay Network for Scalable Grid Computing*,  
    in *Advances in Grid Computing (EGC 2005)*,  
    Lecture Notes in Computer Science, vol. 3470, Springer, 2005, pp. 911–921.  
-   DOI: 10.1007/11508380_93
+   [DOI: 10.1007/11508380_93](https://doi.org/10.1007/11508380_93)
 
 2. **Lican Huang**,  
    *Virtual Hierarchical Tree Grid Organizations (VIRGO)*,  
    in *Handbook of Research on P2P and Grid Systems for Service-Oriented Computing*,  
-   IGI Global, 2010.
+   IGI Global, 2010.  DOI: 10.4018/978-1-61520-686-5.ch030
+   [IGI Global Link](https://www.igi-global.com/chapter/virtual-hierarchical-tree-grid-organizations/40824)
 
 3. **Lican Huang**,  
    *Constructing Large Scale Cooperative Multi-Agent Systems from Semantic P2P Networks*,  
    Studies in Computational Intelligence, vol. 460, Springer, 2013, pp. 257–277.  
-   DOI: 10.1007/978-3-642-34952-2_11
+   [DOI: 10.1007/978-3-642-34952-2_11](https://doi.org/10.1007/978-3-642-34952-2_11)
 
 4. **Lican Huang**,  
    *Private Virtual Tree Networks for Secure Multi-Tenant Environments Based on the VIRGO Overlay Network*,  
-   arXiv preprint arXiv:2512.15915, 2025.
+   arXiv preprint [arXiv:2512.15915](https://arxiv.org/abs/2512.15915), 2025.
 
 5. **Lican Huang**,  
    *sVIRGO: A Scalable Virtual Tree Hierarchical Framework for Distributed Systems*,  
-   arXiv preprint arXiv:2602.02438, 2026.
+   arXiv preprint [arXiv:2602.02438](https://arxiv.org/abs/2602.02438), 2026.
 
-## Related References
+---
+
+### Related References
+
 6. **Lican Huang**,  
    *Research on Scalable Architecture for e-Science Grid*,  
    PhD Thesis, School of Computer Science and Technology,  
@@ -175,11 +180,26 @@ The VIRGO and sVIRGO architectures are described in the following research manus
    *Virtual and Dynamic Hierarchical Architecture for E-Science Grid*,  
    *International Journal of High Performance Computing Applications*,  
    vol. 17, no. 3, pp. 329–347, 2003.  
-   DOI: 10.1177/1094342003173007
+   [DOI: 10.1177/1094342003173007](https://doi.org/10.1177/1094342003173007)
 
-## Cooperative / Related References
+---
+
+### Supporting / Cooperative References
 
 8. Yunliang Jiang, Yong Liu, Wenliang Huang, Lican Huang,  
    *Performance Analysis of a Mobile Agent Prototype System Based on VIRGO P2P Protocols*,  
    *Concurrency and Computation: Practice and Experience*, vol. 26, no. 2, pp. 447–467, 2013.  
-   DOI: 10.1002/cpe.3006
+   [DOI: 10.1002/cpe.3006](https://doi.org/10.1002/cpe.3006)
+
+9. **Lican Huang**,  
+   *High Performance Computation Based on Semantic P2P Network*,  
+   in *2015 IEEE International Conference on Smart City/SocialCom/SustainCom/DataCom (SC2)*,  
+   Chengdu, China, Dec. 19–21, 2015, pp. 1159–1162.  
+   [DOI: 10.1109/SMARTCITY.2015.228](https://doi.org/10.1109/SMARTCITY.2015.228)
+
+10. **Lican Huang**,  
+    *A P2P Service Discovery Strategy Based on Content Catalogues*,  
+    *Data Science Journal*, vol. 6, pp. 492–499, 2007.   DOI: 10.2481/dsj.6.S492
+    [Link](https://datascience.codata.org/articles/dsj.6.S492)
+
+ 

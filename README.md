@@ -1,5 +1,6 @@
 # VIRGO  
-**A Next-Generation Hierarchical Distributed Architecture**
+**A Next-Generation Hierarchical Distributed Architecture.**
+
 VIRGO has now been **redesigned and re-implemented in Rust** to take advantage of Rust’s performance, safety, and concurrency features.
 ---
 
